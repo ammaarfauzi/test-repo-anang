@@ -1,3 +1,2 @@
 import time
-
-print("Hello, world")
+import requests
